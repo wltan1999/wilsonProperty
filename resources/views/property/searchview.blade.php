@@ -5,7 +5,7 @@
 
 @section('content')
 <div class="container">
-{{$content}}
+{{$content[0]['street']}}
 
 
 
