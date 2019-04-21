@@ -1,0 +1,21 @@
+.portal_logo{
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+.portal_right{
+  float: right;
+margin: 23px 0 0 0;
+padding: 0;
+}
+
+/*.phone_info{
+  padding: 0;
+margin: 0 25px 0 0;
+display: inline-block;
+font-size: 14px;
+color: #1b85b2;
+font-family: 'BwGlennSansBold';
+line-height: 39px;
+}*/
